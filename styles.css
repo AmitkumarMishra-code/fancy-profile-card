@@ -70,7 +70,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: all 500ms linear;
+    transition: transform 500ms linear;
     position: absolute;
 }
 
